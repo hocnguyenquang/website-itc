@@ -1,0 +1,32 @@
+html{
+    background: rgb(7,150,11);
+    background: linear-gradient(90deg, rgba(7,150,11,1) 0%, rgba(150,10,10,1) 0%, rgba(168,152,5,1) 64%, rgba(150,212,21,1) 100%, rgba(9,100,121,1) 100%, rgba(192,71,71,1) 100%, rgba(205,29,175,1) 100%, rgba(0,222,244,1) 100%, rgba(0,212,255,1) 100%);
+    text-align: center;
+    font-family: Arial;
+   
+    font-weight: 500;
+    box-shadow: 0 0 14px wheat;
+}
+
+.ul{
+    list-style: none;
+    
+}
+h2{
+    color: red;
+    text-overflow: ;
+}
+a{
+    text-decoration: none;
+}
+.tb{
+    display: inline; 
+}
+.Nghieng1{
+    font-weight: bold;
+    font-style: italic ;
+}
+.Date{
+    font-weight: bold;
+    font-style: italic;
+}
